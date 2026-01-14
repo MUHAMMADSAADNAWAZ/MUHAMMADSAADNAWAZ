@@ -45,7 +45,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadsaadnawaz&show_icons=true&theme=radical)
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUHAMMADSAADNAWAZ&show_icons=true&theme=radical)
 
 ---
 
